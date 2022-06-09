@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family:'Georgia', 'Roboto', sans-serif;
+    background-image: url(/img/payment.jpg);
+}
+
+.bg-light{
+    background-color: whitesmoke!important;
+    position: sticky;
+    top: 0;
+    cursor: pointer;
+   
+}
+
+.toggle-color{
+    background-color: #f9f3f3;
+}
+.navbar-brand{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.7rem;
+    color:  black!important;
+    
+}
+
+.nav-link{
+    color: #f9f3f3!important;
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: rgb(114, 108, 108);
+    margin-left: 20px;
+    
+}
+
+
+.nav-link:hover{
+    background-color: #222831;
+}
+
+.bgcolor-sm{
+    background-color: rgb(114, 108, 108);
+}
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color:whitesmoke!important;
+    color: black!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(67, 83, 230)!important;
+}
+.table-danger1{
+    background-color: black;
+    color: #f9f3f3;
+}
+
+.color{
+    color: white!important;
+    font-size: 22px!important;
+}
+
+.table-light1{
+    background-color: #fcfcfc;
+}
+
+.table-info1{
+    background-color: #fcfcfc;
+}
